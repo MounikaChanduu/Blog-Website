@@ -1,0 +1,18 @@
+ [
+  {
+    "title": "Welcome to My Blog",
+    "date": "October 1, 2025",
+    "content": "This is my first blog post! Here, I'll share thoughts, tutorials, and personal updates."
+  },
+  {
+    "title": "Building a Responsive Blog Website",
+    "date": "October 1, 2025",
+    "content": "In this post, I explain how to build a blog website using HTML, CSS, and JavaScript with dynamic JSON rendering."
+  },
+  {
+    "title": "Future Plans",
+    "date": "October 1, 2025",
+    "content": "Stay tuned for more updates, coding tutorials, and insights into web development projects."
+  }
+]
+
